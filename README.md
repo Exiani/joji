@@ -99,7 +99,6 @@
   
   <div class="image-container">
     <a href="imagen1.jpg" target="_blank"><img src="jelokiti.png" alt="Imagen 1"></a>
-    <a href="animacion.gif" target="_blank"><img src="kitigif.gif" alt="Animación"></a>
   </div>
 
 </head>
