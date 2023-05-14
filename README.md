@@ -1,5 +1,5 @@
 # joji
-<!DOCTYPE html>
+#<html>
 <html>
 <head>
   <title>Rodrigo, eres lo mejor que me ha pasado</title>
